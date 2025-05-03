@@ -1,6 +1,6 @@
 # ASL-translator
 
-## American Sign Language translator for deaf and dumb
+## American Sign Language translator for deaf and speech-impaired
 
 ## 🎯 Project Objective
 
