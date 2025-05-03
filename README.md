@@ -1,6 +1,6 @@
 # ASL-translator
 
-## 🤟 An application to translate American Sign Language into standard English text
+## American Sign Language translator for deaf and dumb
 
 ## 🎯 Project Objective
 
