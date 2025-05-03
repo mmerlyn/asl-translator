@@ -48,8 +48,9 @@ The convolution model achieved 99% training accuracy, while the test accuracy wa
 - OpenCV is powerful for real-time computer vision but requires careful fine-tuning for dynamic environments.
 - Deploying ML models in real-world settings highlights challenges that don’t appear during training.
 
-## Final Notes
+## 📜 License
 
+© All rights reserved.  
 This project was completed as part of the Project-Based Learning (PBL) contest at **BMS Institute of Technology and Management**, Bengaluru, India.
 
 **Team Members:**
