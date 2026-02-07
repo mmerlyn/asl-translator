@@ -15,8 +15,8 @@ This system is primarily intended to support communication for individuals with 
 ## 🛠️ Technology used:
 
 - **Python**
-- **OpenCV** – for webcam capture and image preprocessing
-- **TensorFlow & Keras** – for building and training the convolutional model
+- **OpenCV** - for webcam capture and image preprocessing
+- **TensorFlow & Keras** - for building and training the convolutional model
 - **Jupyter Notebook** - for model development and evaluation
 
 ## ⚙️ How It Works
@@ -56,3 +56,4 @@ This project was completed as part of the Project-Based Learning (PBL) contest a
 **Team Members:**
 1. Aishwarya M
 2. Merlyn Mercylona Maki Reddy
+
